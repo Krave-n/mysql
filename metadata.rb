@@ -1,4 +1,4 @@
-name 'mysql'
+name 'mysql5'
 maintainer 'Chef Software, Inc.'
 maintainer_email 'cookbooks@getchef.com'
 license 'Apache 2.0'
